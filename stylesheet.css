@@ -1,0 +1,29 @@
+body {
+background-color: lightblue;
+border-style: solid solid;
+padding: 25px 50px 75px 100px;
+}
+
+h3 {
+font-family: Arial,Geneva, Arial White;
+font-weight: normal;
+font-size: 20px;
+}
+
+p {
+color:white;
+font-size: 17px;
+letter-spacing: 2px;
+}
+
+h2 {
+text-shadow:2px2px darkgrey;
+text-align: center;
+font-family: verdana;
+}
+
+li {
+color:darkblue;
+font-size: 16px;
+text-align: left;
+}
